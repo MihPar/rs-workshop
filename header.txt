@@ -1,4 +1,6 @@
 Some text for header
-hange from <master> - new changes!!!
+hange from <master>
+Change from <first>
+Text from master: new changes!!!
 
 
